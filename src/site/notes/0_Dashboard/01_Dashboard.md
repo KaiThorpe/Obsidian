@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/0-dashboard/01-dashboard/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-dashboard/01-dashboard/"}
 ---
 
 
 # 📊 Dashboard
 
 ## 🌟 Starred Notes
-- [[0_Dashboard/calendar\|calendar]] 
-- [[0_Dashboard/01_Dashboard\|01_Dashboard]] 
+- [[0_Dashboard/calendar\|calendar]]
+- [[0_Dashboard/01_Dashboard\|01_Dashboard]]
 
 
 ## 📅 Calendar
