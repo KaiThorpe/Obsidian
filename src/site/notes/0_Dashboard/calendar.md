@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-dashboard/calendar/"}
+{"dg-publish":true,"permalink":"/0-dashboard/calendar/","tags":["gardenEntry"]}
 ---
 
 ---
