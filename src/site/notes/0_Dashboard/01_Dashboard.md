@@ -6,8 +6,8 @@
 # 📊 Dashboard
 
 ## 🌟 Starred Notes
-- [calendar](calendar.md)
-- [01_Dashboard](01_Dashboard.md)
+- [[0_Dashboard/calendar\|calendar]] 
+- [[0_Dashboard/01_Dashboard\|01_Dashboard]] 
 
 
 ## 📅 Calendar
