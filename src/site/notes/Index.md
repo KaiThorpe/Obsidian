@@ -4,4 +4,4 @@
 
 this is a test
 
-[[0_Dashboard/01_Dashboard\|01_Dashboard]]
+[[0 Dashboard/01_Dashboard\|01_Dashboard]]
