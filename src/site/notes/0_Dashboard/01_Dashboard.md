@@ -6,7 +6,7 @@
 # 📊 Dashboard
 
 ## 🌟 Starred Notes
-- [Calendar](./Calendar.md)
+- [calendar](calendar.md)
 - [01_Dashboard](01_Dashboard.md)
 
 
