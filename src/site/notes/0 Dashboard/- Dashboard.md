@@ -7,7 +7,7 @@
 
 ## 🌟 Starred Notes
 - [[0 Dashboard/calendar\|calendar]]
-- [[0 Dashboard\|0 Dashboard]]
+- [[0 Dashboard/- Dashboard\|- Dashboard]]
 
 
 ## 📅 Calendar
